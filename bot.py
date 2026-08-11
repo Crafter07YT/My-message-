@@ -105,11 +105,10 @@ __build_date__  = "2025-05-15"
 
 # ─── Bot Token ────────────────────────────────────────────────────────────────
 # Replace with your BotFather token
-BOT_TOKEN: str = "8917368310:AAEn37Xx2OO-7qGb4f1ljtvIVMPKEICXSHQ"
-
+BOT_TOKEN: str = "8739659081:AAFvmhHW0R12acxQtQzE0CHxVaadJYTU6EE"
 # ─── Owner / Admin ────────────────────────────────────────────────────────────
-OWNER_USERNAME: str = "JAYYYTTTTTTTtt"                      # without @
-OWNER_ID: int       = int(os.getenv("OWNER_ID", "8069463825"))  # Set your Telegram user ID
+OWNER_USERNAME: str = "Ger"                      # without @
+OWNER_ID: int       = int(os.getenv("OWNER_ID", "7861730285"))  # Set your Telegram user ID
 
 # ─── Checker Settings ─────────────────────────────────────────────────────────
 MAX_WORKERS:       int   = 10        # Concurrent check threads
